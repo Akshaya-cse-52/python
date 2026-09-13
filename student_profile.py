@@ -1,0 +1,6 @@
+print("Name:Akshaya")
+print("Branch:CSE")
+print("Year:3rd year")
+print("Semester:3-1")
+print("Programming Level:Beginner")
+print("Career Goal: AI software engineer")

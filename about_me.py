@@ -1,0 +1,6 @@
+print("Hii")
+print("Am Akshaya")
+print("Am 20 yrs now")
+print("Student of Indur institute of engineering and technology")
+print("CSE 3rd year")
+print("I want to become AI software Engineer")
